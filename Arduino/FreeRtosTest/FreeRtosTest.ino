@@ -24,7 +24,7 @@ int daylightOffset_sec = 3600;
 // LED-Panel Definition
 #define LED_PIN 25
 #define NUM_LEDS 512
-#define PANEL_WIDTH 32
+#define PANEL_WIDTH 34
 #define PANEL_HEIGHT 16
 CRGB leds[NUM_LEDS];
 
