@@ -4,8 +4,8 @@
 #define WIDTH 32
 #define HEIGHT 16
 
-#define LEDS1_PIN 26
-#define LEDS2_PIN 25
+#define LEDS1_PIN 13
+#define LEDS2_PIN 18
 
 CRGB leds1[NUM_LEDS];
 CRGB leds2[NUM_LEDS];
